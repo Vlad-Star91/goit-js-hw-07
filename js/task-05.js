@@ -4,6 +4,6 @@ const nameOutputElem = document.querySelector('#name-output');
 const nameDefaultText = nameOutputElem.textContent;
 nameInputElem.addEventListener('input', onInputChange);
 
-function onInputChange({currentTarget: {value}}) {
-    nameOutputElem.textContent = value.length === 0 ? `${nameDefaultTwxt}` : value;
+function onInputChange(valueEl) {
+    nameOutputElem.textContent = valueEl.currentTarget.value.trim() || "незнакомец"; 
     }
