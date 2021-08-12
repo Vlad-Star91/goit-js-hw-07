@@ -6,7 +6,8 @@ function checkDataLength(event) {
         event.currentTarget.classList.add("valid");
         return;
     }
-    if(event.currentTarget.value.length != dataLengthElem && event.currentTarget.classList.contains('valid')){
+    if (event.currentTarget.value.length != dataLengthElem || event.currentTarget.value.length === ''  && event.currentTarget.classList.contains('valid')) {
+        event.currentTarget.classList.remove("valid");
         event.currentTarget.classList.add("invalid");
          return;
     }
