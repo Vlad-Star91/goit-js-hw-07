@@ -36,5 +36,13 @@ Task 5
 A script that, when typing text in input#name-input (input event), substitutes its current value in span#name-output. If the input is empty, the string 'stranger' should be displayed in the span.
 
 Result:
-https://ibb.co/ZgpCRRz
+https://ibb.co/ZgpCRRz ,
 https://ibb.co/WpC9vqB
+
+Task 6
+
+A script that, when focus is lost on an input, would check its contents for the correct number of characters.
+Result:
+https://ibb.co/MPfZGMr ,
+https://ibb.co/1MKVwLn ,
+https://ibb.co/vqcCHkK
