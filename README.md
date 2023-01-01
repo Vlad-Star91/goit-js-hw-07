@@ -42,7 +42,15 @@ https://ibb.co/WpC9vqB
 Task 6
 
 A script that, when focus is lost on an input, would check its contents for the correct number of characters.
+
 Result:
 https://ibb.co/MPfZGMr ,
 https://ibb.co/1MKVwLn ,
 https://ibb.co/vqcCHkK
+
+Task 7
+
+A script that responds to input#font-size-control value changes and changes the span#text inline style by updating the font-size property. As a result, when you drag the slider, the text size will change.
+
+Result:
+https://ibb.co/RPr1kN8
