@@ -23,3 +23,10 @@ I use an array of objects to create <img> tags nested in <li>. To create markup 
 
 Result:
 https://ibb.co/vHXTL6v
+
+Task 4
+
+The counter consists of a span and buttons that should increase and decrease the value of the counter by 1.
+
+Result:
+https://ibb.co/Trkz4Lc
