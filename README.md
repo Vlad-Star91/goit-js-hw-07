@@ -30,3 +30,11 @@ The counter consists of a span and buttons that should increase and decrease the
 
 Result:
 https://ibb.co/Trkz4Lc
+
+Task 5
+
+A script that, when typing text in input#name-input (input event), substitutes its current value in span#name-output. If the input is empty, the string 'stranger' should be displayed in the span.
+
+Result:
+https://ibb.co/ZgpCRRz
+https://ibb.co/WpC9vqB
